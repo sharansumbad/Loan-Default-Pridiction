@@ -1,4 +1,5 @@
 # Loan-Default-Pridiction
+Classififation of on Bank data 
 
 Technologies: Xgboost, Logistic Regression, Feature Engineering, NumPy, Pandas, Matplotlib, Seaborn
 
